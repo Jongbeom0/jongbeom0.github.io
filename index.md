@@ -8,7 +8,7 @@ AI Education Researcher & Program Planner
 Public-sector projects | Teacher capacity building | AI literacy
 
 ---
-[한국어 페이지 →](index.md)
+[한국어 페이지 →](ko.md)
 
 ## About
 I work on national-level AI education and teacher training initiatives in Korea.
